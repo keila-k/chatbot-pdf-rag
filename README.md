@@ -16,7 +16,7 @@ Projeto para responder perguntas com base no conteúdo de arquivos PDF usando:
 
 ## Prints do Projeto
 ### Indexação dos PDFs
-![Indexação no terminal VS Code](assets/prints/01 VS Code inicio.png)
+![VS Code terminal showing PDF indexing initialization with project folder structure and Python virtual environment activated](assets/prints/01 VS Code terminal PDF indexing.png)
 ![Streamlit Run](assets/prints/02 VS Code streamlit run src app.png)
 ![Criação do ReadMe](assets/prints/03 Git Bash README EOF)
 

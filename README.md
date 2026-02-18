@@ -16,22 +16,22 @@ Projeto para responder perguntas com base no conteúdo de arquivos PDF usando:
 
 ## Prints do Projeto
 ### Indexação dos PDFs
-![VS Code terminal showing PDF indexing initialization with project folder structure and Python virtual environment activated](assets/prints/01 VS Code terminal PDF indexing.png)
-![Streamlit Run](assets/prints/02 VS Code streamlit run src app.png)
-![Criação do ReadMe](assets/prints/03 Git Bash README EOF)
+![VS Code terminal showing PDF indexing initialization with project folder structure and Python virtual environment activated](assets/prints/01.png)
+![Streamlit Run](assets/prints/02.png)
+![Criação do ReadMe](assets/prints/03.png)
 
 ### Chat (Streamlit)
-![Indexar PDF](assets/prints/04 VS Code Indexar PDF.png)
-![Streamlit Run](assets/prints/05 VS Code Streamlit Run.png)
+![Indexar PDF](assets/prints/04.png)
+![Streamlit Run](assets/prints/05.png)
 
 ### Localhost
-![Abriu o Localhost com erro](assets/prints/06 Abriu o Localhost com o Chatbot.png)
-![Abriu o Localhost corretamente](assets/prints/07 Abriu o Localhost com o Chatbot de modo correto agora.png)
+![Abriu o Localhost com erro](assets/prints/06.png)
+![Abriu o Localhost corretamente](assets/prints/07.png)
 
 ### Evidências adicionais
-![A pergunta do Exemplo](assets/prints/08 Chat com uma resposta sobre o Grapho de Djikstra -1)
-![Parte da Resposta](assets/prints/09 Chat com uma resposta sobre o Grapho de Djikstra -2.png)
-![Zoom out na Resposta](10 Chat com uma resposta sobre o Grapho de Djikstra -38.png)
+![A pergunta do Exemplo](assets/prints/08.png)
+![Parte da Resposta](assets/prints/09.png)
+![Zoom out na Resposta](assets/prints/10.png)
 
 
 ### Explicação dos Prints

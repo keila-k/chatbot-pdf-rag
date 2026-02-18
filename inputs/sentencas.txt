@@ -1,0 +1,3 @@
+Quero criar um chatbot que responda perguntas com base em PDFs.
+Vou usar embeddings e busca vetorial para recuperar trechos relevantes.
+Depois vou gerar respostas usando um modelo de linguagem com contexto dos documentos.

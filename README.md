@@ -13,7 +13,6 @@ Projeto para responder perguntas com base no conteúdo de arquivos PDF usando:
 - `src/`: scripts de indexação e app do chatbot
 - `vectorstore/`: índice FAISS + metadados (gerado)
 
-
 ## Prints do Projeto
 ### Indexação dos PDFs
 ![VS Code terminal showing PDF indexing initialization with project folder structure and Python virtual environment activated](assets/prints/01.png)
@@ -47,7 +46,7 @@ Então substituí meu "src/indexar_pdfs.py" por uma versão incremental:
 - para limitar chunks por PDF, 
 - limitar tamanho total de texto por PDF, 
 - e adicionar FAISS em lotes e salvar o chunks.json no final sem estourar RAM. 
-Depois indexei PDFs e conferi o Vectorstore. Rodei o Streamlit. Deu certo. Este é apenas um comentário pessoal se também for a sua primeira vez fazendo RAG e/ou se você enfrentou um problema similar. Eu perdi uma manhã de feriado solucionando. Criar foi relativamente rápido.
+Depois indexei PDFs e conferi o Vectorstore. Rodei o Streamlit. Deu certo. 
 
 ## Como rodar
 1) Criar ambiente e instalar dependências
